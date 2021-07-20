@@ -1,5 +1,10 @@
 # FINTECH (Financial Technology)
  
+ # Team (FinTech-45)
+    1.Karthik Prakash Hudedamani
+    2.Bhoomika H
+    3.Akshay B.R
+    4.Lavanya C.R
  
 **_Financial Technology is an Responsive Web App ._**
 
